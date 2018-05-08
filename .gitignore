@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+.vs/BitcoinDBCodeFirst/v15/.suo
+*.lock
+*.txt
+*.cache
+*.pdb
+BitcoinDBCodeFirst/bin/Debug/EntityFramework.SqlServer.xml
+*.ide

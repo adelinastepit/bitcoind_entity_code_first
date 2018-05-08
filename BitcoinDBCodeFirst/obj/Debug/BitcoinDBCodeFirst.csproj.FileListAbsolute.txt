@@ -1,1 +1,0 @@
-c:\users\astanci2\documents\visual studio 2015\Projects\BitcoinDBCodeFirst\BitcoinDBCodeFirst\bin\Debug\BitcoinDBCodeFirst.exe.config
